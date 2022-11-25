@@ -14,7 +14,8 @@ voor de keuzethema’s van het vak informatica in het VO. Deze community wordt
 georganiseerd door de vakvereniging i&i - voor docenten informatica en
 digitale geletterdheid. Het startschot voor deze community is gegeven op de 
 i&i conferentie van 10 november 2022. 
-Op deze website zijn de actuele ontwikkelingen rond deze community te volgen.
-
 Met deze community wil i&i het eigenaarschap van dit lesmateriaal zoveel
 mogelijk bij de docenten leggen.
+Op deze website zijn de actuele ontwikkelingen rond deze community te volgen.
+
+Het materiaal is te vinden via [keuzethemas.nl](https://keuzethemas.nl).
