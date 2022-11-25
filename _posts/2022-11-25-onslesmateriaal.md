@@ -5,17 +5,17 @@ date:   2022-11-25 14:00 +0100
 categories: community
 ---
 
-# Ons leermateriaal
+# Ons lesmateriaal
 
-Onder het motto “ons leermateriaal - passend en professioneel” werkt een
-community van informatica-docenten en andere experts aan open lesmateriaal
+Onder het motto “ons lesmateriaal - passend en professioneel” werkt een
+community van informatica-docenten en andere experts aan open leermateriaal
 voor de keuzethema’s van het vak informatica in het VO. Deze community wordt
 georganiseerd door de vakvereniging i&i - voor docenten informatica en
 digitale geletterdheid. Deze community is nog erg pril: het startschot
 hiervoor is gegeven op de jaarlijkse i&i conferentie, op 10 november 2022. Op
 deze website zijn de actuele ontwikkelingen rond deze community te volgen.
 
-Met deze community wil i&i het eigenaarschap van dit lesmateriaal zoveel
+Met deze community wil i&i het eigenaarschap van dit leermateriaal zoveel
 mogelijk bij de docenten leggen (en uiteindelijk deels bij hun leerlingen).
 
 ## Ons lesmateriaal - passend en professioneel
@@ -32,7 +32,7 @@ expertise om dit materiaal echt professioneel te maken. In de praktijk zijn er
 natuurlijk ook veel docenten die beide combineren - maar deze gevallen geven
 wel het dilemma voor de docent goed aan.
 
-Met “ons leermateriaal” proberen we het beste van deze twee werelden te
+Met “ons lesmateriaal” proberen we het beste van deze twee werelden te
 combineren. Het open leermateriaal kan door een docent relatief gemakkelijk
 aan de eigen situatie aangepast worden. En via de community kunnen docenten
 hun eigen lesmateriaal uitwerken op een professioneler niveau dan wat ze in
