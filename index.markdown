@@ -6,6 +6,7 @@ layout: home
 title: "Ons lesmateriaal - passend en professioneel"
 ---
 
+
 ![Ons lesmateriaal](/public/images/ons-lesmateriaal-kleur.png){: width="400"  style="display:block; margin-left: auto; margin-right: auto;"}
 
 Onder het motto “ons lesmateriaal - passend en professioneel” werkt een
