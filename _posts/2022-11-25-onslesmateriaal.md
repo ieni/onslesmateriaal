@@ -3,6 +3,7 @@ layout: post
 title:  "Welkom bij Ons Lesmateriaal"
 date:   2022-11-25 14:00 +0100
 categories: community
+comment: true
 ---
 
 # Ons lesmateriaal

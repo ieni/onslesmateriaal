@@ -33,6 +33,10 @@ github_username:  ieni
 theme: minima
 plugins:
   - jekyll-feed
+  
+comments:
+  discourse:
+    server:   "ieni-forum.infvo.nl"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
