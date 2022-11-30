@@ -2,14 +2,14 @@
 {% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url | absolute_url }}{% else %}{{ page.url | absolute_url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <div id='discourse-comments'></div>
 <script type="text/javascript">
-    DiscourseEmbed = { discourseUrl: '//{{ site.comments.discourse.server }}/',
-                       discourseEmbedUrl: '{{ canonical }}' };
+    DiscourseEmbed = { discourseUrl: 'https://{{ site.comments.discourse.server }}/',
+                       discourseEmbedUrl: 'https://onslesmateriaal.nl{{ canonical }}' };
    (function () {
      var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
      d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
    })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://discourse.com/?ref_noscript" rel="nofollow">comments powered by Discourse.</a></noscript>
 {%- endif -%}
 
